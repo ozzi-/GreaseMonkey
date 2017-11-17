@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Replaces input text field with password for OTP input
-// @match        https://graylog.*.ch/auth/token
+// @include      https://graylog.*.ch/auth/token
 // @grant        none
 // ==/UserScript==
 
